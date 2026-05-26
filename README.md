@@ -37,4 +37,4 @@ BIM Coordinator | Data Analytics Enthusiast | BIM + AI + Automation
 
 ## 🌎 Connect with Me
 
-[LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/kacostasilva/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacostasilva/)
