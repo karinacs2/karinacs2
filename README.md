@@ -26,6 +26,7 @@
 ![Navisworks](https://img.shields.io/badge/Navisworks-0C5FA8?style=for-the-badge&logo=autodesk&logoColor=white)
 ![ACC](https://img.shields.io/badge/Autodesk_ACC-0C5FA8?style=for-the-badge&logo=autodesk&logoColor=white)
 ![BIMcollab](https://img.shields.io/badge/BIMcollab-1A73E8?style=for-the-badge&logoColor=white)
+![Solibri](https://img.shields.io/badge/Solibri-E84B23?style=for-the-badge&logoColor=white)
 
 ### Data & Analytics
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
