@@ -51,25 +51,9 @@
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [BIM Clash Detection Dashboard](https://github.com/karinacs2/bim-project-dashboard) | Interactive analytics for clash resolution, SLA tracking and discipline interference in AEC projects | HTML · CSS · JS |
-| *More coming soon...* | BIM data pipelines, Power BI reports, Python automation | Python · Power BI |
-
----
-
-## 📈 GitHub Stats
-
-![Karina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karinacs2&show_icons=true&theme=default&hide_border=true)
-
----
-
 ## 🌎 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacostasilva/)
-[![GitHub Pages](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://karinacs2.github.io/bim-project-dashboard/)
 
 ---
 
