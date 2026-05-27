@@ -42,7 +42,3 @@
 ## 🌎 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacostasilva/)
-
----
-
-*Passionate about making construction data more visible, structured and actionable.*
