@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Karina Costa
 
-**BIM Coordinator · Data Analytics · Digital Construction**
-*Bridging BIM workflows and data intelligence in the AEC industry*
+**BIM Coordinator · Digital Construction · Data Analytics**
 
 ---
 
@@ -10,10 +9,9 @@
 - 🇧🇷 Brazilian professional with international experience in Ireland
 - 📐 BIM Coordinator with background in project management and
   clash detection workflows
-- 📊 Transitioning toward Data Analytics applied to construction —
+- 📊 Transitioning toward Data Analytics —
   Power BI, Python, and process automation
-- 🤖 Exploring AI and automation tools to reduce manual work
-  in BIM coordination
+- 🤖 Exploring AI and automation tools to reduce manual worK
 - 🌍 Currently building a data-driven portfolio at the intersection
   of BIM and analytics
 
@@ -38,16 +36,6 @@
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🚀 Current Focus
-
-- 📊 Building BIM analytics dashboards with Power BI
-- 🐍 Python applied to BIM data processing and automation
-- 🤖 AI integrations for AEC coordination workflows
-- 🔄 Process automation to reduce manual tasks in BIM management
-- 📐 ISO 19650-aligned information management
 
 ---
 
