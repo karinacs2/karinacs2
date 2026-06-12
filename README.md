@@ -11,7 +11,7 @@
   clash detection workflows
 - 📊 Transitioning toward Data Analytics —
   Power BI, Python, and process automation
-- 🤖 Exploring AI and automation tools to reduce manual worK
+- 🤖 Exploring AI and automation tools to reduce manual work
 - 🌍 Currently building a data-driven portfolio at the intersection
   of BIM and analytics
 
